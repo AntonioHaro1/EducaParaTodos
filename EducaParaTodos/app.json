@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "EducaParaTodo",
+    "slug": "EducaParaTodo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "andorid": {
+    "permissions": ["CAMERA_ROLL"]
+  },
+  "web":{
+    "permissions":["CAMERA_ROLL"]
+  }
+}
